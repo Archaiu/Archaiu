@@ -15,4 +15,4 @@ Personal Projects:
 
 Collaborative Projects:
 - 🧬 Simulation of evolution - simulation of agents' behaviour. Contribution: logic behind the genetic algorithm and agent behaviour - https://github.com/AGH-Programming-Classes/pite_7_project
-- 🗺️ Acceleration Field - visualisation of a height map based on an input function. Contribution: creation of the color palette and topology map
+- 🗺️ Acceleration Field - visualisation of a height map based on an input function. Contribution: creation of the color palette and topology map - https://github.com/ralphy127/Acceleration-Field
