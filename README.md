@@ -1,16 +1,18 @@
-## Hi there 👋
+Archaiu - Portfolio & Projects
 
-<!--
-**Archaiu/Archaiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hard skills:
+- ☕ Java - JavaFX, Maven, Spring, Testing, Multithreading
+- 🐍 Python - Data Science, Data Processing, PyQt
+- ⚙️ C++ - SFML, Optimization
+- 🗄️ Databases - Postgres
+- 🌐 Web - React, Flask
+- 🛠️ Other - Algorithms, Multithreading, System design, Testing
 
-Here are some ideas to get you started:
+Personal Projects:
+ - 🛡️ Tanks AGH - Java-based game featuring a custom engine and a multiplayer network communication system - https://github.com/Archaiu/tanks_agh
+ - 📚 Books Finder - Python (PyQt) and Postgres application for book recommendations based on reading history - https://github.com/Archaiu/books-finder
+ - 📊 Campaign Manager - simple React CRUD application demonstrating campaign management (Frontend only) - https://github.com/Archaiu/campaigns-manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Collaborative Projects:
+- 🧬 Simulation of evolution - simulation of agents' behaviour. Contribution: logic behind the genetic algorithm and agent behaviour - https://github.com/AGH-Programming-Classes/pite_7_project
+- 🗺️ Acceleration Field - visualisation of a height map based on an input function. Contribution: creation of the color palette and topology map
